@@ -1,5 +1,11 @@
 package OCP;
 
+
+//*************************************************************************
+// Title : A java programme to demonstrate Open Close Principle.
+// Author : Sanjidul Hasan Hasib, Undergrduate student, Khulna University.
+//*
+
 /*
  * The Main class demonstrates the Open/Closed Principle (OCP) by utilizing
  * the VolumeCalculable interface for calculating the volume of different shapes.

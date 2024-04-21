@@ -1,5 +1,11 @@
 package ISP;
 
+//*************************************************************************
+
+// Title : A java programme to demonstrate Interface Segregation Principle (ISP).
+// Author : Sanjidul Hasan Hasib, Undergrduate student, Khulna University.
+//*
+
 public class Main {
 
     public static void main(String[] args) {

@@ -1,5 +1,12 @@
 package LSP;
 
+//*************************************************************************
+
+// Title : A java programme to demonstrate Liskov Substitution Principle (LSP).
+// Author : Sanjidul Hasan Hasib, Undergrduate student, Khulna University.
+//*
+
+
 public class Main {
 
     public static void main(String[] args) {
@@ -13,10 +20,6 @@ public class Main {
     }
     
 }
-
-
-
-
 /*
  * As per Liskov Substitution
  * Principle (LSP)

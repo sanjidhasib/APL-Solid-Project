@@ -1,4 +1,10 @@
 package DIP;
+ 
+//*************************************************************************
+
+// Title : A java programme to demonstrate Dependency Inversion Principle (DIP).
+// Author : Sanjidul Hasan Hasib, Undergrduate student, Khulna University.
+//*
 
 public class Main {
    
